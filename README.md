@@ -4,7 +4,7 @@ Hello i am learning moderate git commands
 hie :))
 hello 
 
-i am in readme 
+asdfadsfafd
 this is dinesh's repo 
 he he he :)
 
